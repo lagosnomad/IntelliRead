@@ -7,7 +7,7 @@ Clone
 =======================
 Clone this project
 ```sh
-git clone 
+git clone https://github.com/lagosnomad/IntelliRead.git
 ```
 
 Setup
